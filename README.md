@@ -26,7 +26,7 @@ Basic Setup requires :
 13. Make migrates to create database. ```python manage.py makemigrations```, ```python manage.py migrate```.
 14. Launch server. ```python manage.py runserver```.
 
-![Backend](https://drive.google.com/file/d/1pNqvUfXtbYKQQD10x6ZCbrwfw1FBUJlG/view?usp=sharing)
+![Backend](https://drive.google.com/uc?export=view&id=1pNqvUfXtbYKQQD10x6ZCbrwfw1FBUJlG)
 
 ## **Frontend**
 > Steps to be followed in frontend
@@ -37,11 +37,11 @@ Basic set-up requirements:
 - ```cd trustbook``` Start the project. ```npm start``` or ```expo start```.
 - You may install "expo go" app in mobile to check if our app is working by scanning the QR code. Alternatively, you can run the app in web browser as well. It it doesn't work, try ```expo r --tunnel``` from cmd instead of ```npm start```. After the command runs successfully, this tab opens in our browser.
 
-![Meta bundler](https://drive.google.com/file/d/1HFzeLZOc2euxBYnl_TL3Lq7KanKmTX1S/view?usp=sharing)
+![Meta bundler](https://drive.google.com/uc?export=view&id=1HFzeLZOc2euxBYnl_TL3Lq7KanKmTX1S)
 
 1. Make necessary changes in App.js to render the required data.
 
-![Frontend](https://drive.google.com/file/d/1mAqIjEpGnrn3sxSpGsS4nUwulwT7Rzn9/view?usp=sharing)
+![Frontend](https://drive.google.com/uc?export=view&id=1mAqIjEpGnrn3sxSpGsS4nUwulwT7Rzn9)
 
 ### Note
 
