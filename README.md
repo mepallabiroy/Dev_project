@@ -18,6 +18,10 @@ Basic Setup requires :
 5. ```cd myproject```. Craete the app which we will be working on. I named it "app". ```django-admin startapp app```.  Install this app in settings.py (INSTALLED_APPS).
 6. Create model in models.py.
 7. Create superuser. ```python manage.py createsuperuser``` and fill the necessary details. Superuser is the administrator of the app.
+Superuser can add objects to our database, in our case it can create Person.
+
+![Superuser](https://drive.google.com/uc?export=view&id=1oFSqdHJxrMecAs6oPkb78JE4ZI2BJlWu)
+
 8. Register the model in admin.py.
 9. Install Django Rest Framework in the same virtual network. ```pip install djangorestframework```. Add 'rest_framework' in INSTALLED_APPS in settings.py.
 10. Create view in views.py and add URL in urls.py. I used Function based API view in views.py.
