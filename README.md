@@ -37,8 +37,8 @@ Superuser can add objects to our database, in our case it can create Person.
 I used react-native as frontend.
 Basic set-up requirements:
 - Download [node.js](https://nodejs.org/en/download/).
-- Install expo-cli and start the project. I named my project "trustbook". ```npm install -g expo-cli``` , ```expo init trustbook```.
-- ```cd trustbook``` Start the project. ```npm start``` or ```expo start```.
+- Install expo-cli and start the project. I named my project "myproject". ```npm install -g expo-cli``` , ```expo init myproject```.
+- ```cd myproject``` Start the project. ```npm start``` or ```expo start```.
 - You may install "expo go" app in mobile to check if our app is working by scanning the QR code. Alternatively, you can run the app in web browser as well. It it doesn't work, try ```expo r --tunnel``` from cmd instead of ```npm start```. After the command runs successfully, this tab opens in our browser.
 
 ![Meta bundler](https://drive.google.com/uc?export=view&id=1HFzeLZOc2euxBYnl_TL3Lq7KanKmTX1S)
